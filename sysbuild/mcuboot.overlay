@@ -1,0 +1,6 @@
+/* Add external flash to mcuboot */
+/ {
+	chosen {
+		nordic,pm-ext-flash = &mx25r64;
+	};
+};
