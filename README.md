@@ -6,6 +6,14 @@ Recommend reviewing the following [LINK](https://academy.nordicsemi.com/courses/
 ) for a refresher on the dfu process used in this repo
 ![image](https://github.com/user-attachments/assets/f7e176e4-5a95-4cd9-a569-343b6e36be3e)
 
+## No DLE iOS13 transfer speed
+
+![image](https://github.com/user-attachments/assets/863e1275-e63d-4e2d-8efd-9f598f91586c)
+
+## Add DLE!
+
+![image](https://github.com/user-attachments/assets/ac7dcf08-f73a-42da-8615-0e722e8ad5c2)
+
 
 # Requirements
 ## Hardware
