@@ -16,7 +16,7 @@ The MTU is the number of bytes that can be sent in one GATT operation (for examp
 
 The relation between data length and MTU is not one-to-one. On air, the data length can be up to 251 bytes, while the actual payload that you can send is a maximum of 244 bytes. This is because the 251 byte Data PDU payload needs an L2CAP Header of 4 bytes, and an Attribute header of 3 bytes. This leaves you with 251 – 4 – 3 = 244 bytes that you can actually populate with payload data.
 
-## No DLE iOS13 transfer speed
+## No DLE iOS13 transfer speed 🐢
 
 ![image](https://github.com/user-attachments/assets/863e1275-e63d-4e2d-8efd-9f598f91586c)
 
